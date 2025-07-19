@@ -1,113 +1,226 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2025-07-17 15:16">
-<shop>
-<name>Скромность</name>
-<company>ООО «Скромность»</company>
-<url>https://skromnosty.ru</url>
-<currencies><currency id="RUB" rate="1"/></currencies>
-<categories><category id="1">Постельное бельё</category></categories>
-<offers>
-<offer id="carbon" available="true">
-<url>https://skromnosty.ru/product-vofslvs</url>
-<price>17500</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/vofslvs/55072da6-4d34-4abd-8ef8-ffb3ba43dfe6/55072da6-4d34-4abd-8ef8-ffb3ba43dfe6-14175744.png</picture>
-<name>Комплект Графит | Размер Евро | 100% натуральный хлопок</name>
-<vendor>Скромность</vendor>
-<description><![CDATA[Подходит для кроватей шириной 160–200 см.Высокая износостойкость, выдерживает более 200 стирок — изделие долго не собирает катышки и не линяет. ]]></description>
-</offer>
-<offer id="mocha" available="true">
-<url>https://skromnosty.ru/product-bncfyej</url>
-<price>17500</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/bncfyej/8b927860-d680-40a6-a43f-27ed385b2d2c/8b927860-d680-40a6-a43f-27ed385b2d2c-14175747.png</picture>
-<name>Комплект Мокко | Размер Евро | 100% натуральный хлопок</name>
-<vendor>Скромность</vendor>
-<description><![CDATA[Подходит для кроватей шириной 160–200 см.Высокая износостойкость, выдерживает более 200 стирок — изделие долго не собирает катышки и не линяет. ]]></description>
-</offer>
-<offer id="smoke" available="true">
-<url>https://skromnosty.ru/product-xugqbwg</url>
-<price>17500</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/xugqbwg/c43e61c8-e015-4faa-b6b5-922c850b096f/c43e61c8-e015-4faa-b6b5-922c850b096f-14158542.png</picture>
-<name>Комплект Дым | Размер Евро | 100% натуральный хлопок</name>
-<vendor>Скромность</vendor>
-<description><![CDATA[Подходит для кроватей шириной 160–200 см.Высокая износостойкость, выдерживает более 200 стирок — изделие долго не собирает катышки и не линяет. ]]></description>
-</offer>
-<offer id="garnet" available="true">
-<url>https://skromnosty.ru/product-kklxfhm</url>
-<price>17500</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/kklxfhm/626f8053-9ba0-46ad-8a2a-7440177e82a1/626f8053-9ba0-46ad-8a2a-7440177e82a1-14158532.png</picture>
-<name>Комплект Гранат | Размер Евро | 100% натуральный хлопок</name>
-<vendor>Скромность</vendor>
-<description><![CDATA[Подходит для кроватей шириной 160–200 см.Высокая износостойкость, выдерживает более 200 стирок — изделие долго не собирает катышки и не линяет. ]]></description>
-</offer>
-<offer id="silver" available="true">
-<url>https://skromnosty.ru/product-djxwahv</url>
-<price>17500</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/djxwahv/258ce449-47d1-42e0-96b0-852c0ac2aa02/258ce449-47d1-42e0-96b0-852c0ac2aa02-14158578.png</picture>
-<name>Комплект Серебро | Размер Евро | 100% натуральный хлопок</name>
-<vendor>Скромность</vendor>
-<description><![CDATA[Подходит для кроватей шириной 160–200 см.Высокая износостойкость, выдерживает более 200 стирок — изделие долго не собирает катышки и не линяет. ]]></description>
-</offer>
-<offer id="lavender" available="true">
-<url>https://skromnosty.ru/product-fftrxky</url>
-<price>17500</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/fftrxky/dacb2838-0f25-4088-b95a-880ee4a39e61/dacb2838-0f25-4088-b95a-880ee4a39e61-14158566.png</picture>
-<name>Комплект Лаванда | Размер Евро | 100% натуральный хлопок</name>
-<vendor>Скромность</vendor>
-<description><![CDATA[Подходит для кроватей шириной 160–200 см.Высокая износостойкость, выдерживает более 200 стирок — изделие долго не собирает катышки и не линяет. ]]></description>
-</offer>
-<offer id="ocean" available="true">
-<url>https://skromnosty.ru/product-bvtzuqb</url>
-<price>17500</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/bvtzuqb/e355c684-fd54-4e73-806a-67f61dc93c43/e355c684-fd54-4e73-806a-67f61dc93c43-14175752.png</picture>
-<name>Комплект Океан | Размер Евро | 100% натуральный хлопок</name>
-<vendor>Скромность</vendor>
-<description><![CDATA[Подходит для кроватей шириной 160–200 см.Высокая износостойкость, выдерживает более 200 стирок — изделие долго не собирает катышки и не линяет. ]]></description>
-</offer>
-<offer id="sand" available="false">
-<url>https://skromnosty.ru/product-yeapfgy</url>
-<price>17500</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/yeapfgy/ba496968-0a0d-427e-aaf6-0e0db6b25e78/ba496968-0a0d-427e-aaf6-0e0db6b25e78-14175761.png</picture>
-<name>Комплект Теплый песок | Размер Евро | 100% натуральный хлопок</name>
-<vendor>Скромность</vendor>
-<description><![CDATA[Подходит для кроватей шириной 160–200 см.Высокая износостойкость, выдерживает более 200 стирок — изделие долго не собирает катышки и не линяет. ]]></description>
-</offer>
-<offer id="ice" available="false">
-<url>https://skromnosty.ru/product-abgnrzl</url>
-<price>17500</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/abgnrzl/f1ba7b8e-c742-4277-a0af-c0e2aa1a5282/f1ba7b8e-c742-4277-a0af-c0e2aa1a5282-14158649.png</picture>
-<name>Комплект Лёд | Размер Евро | 100% натуральный хлопок</name>
-<vendor>Скромность</vendor>
-<description><![CDATA[Подходит для кроватей шириной 160–200 см.Высокая износостойкость, выдерживает более 200 стирок — изделие долго не собирает катышки и не линяет. ]]></description>
-</offer>
-<offer id="olive" available="false">
-<url>https://skromnosty.ru/product-hcygzqa</url>
-<price>17500</price>
-<currencyId>RUB</currencyId>
-<categoryId>1</categoryId>
-<picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/hcygzqa/6dcb7c2e-232c-4737-96a5-4804451efc99/6dcb7c2e-232c-4737-96a5-4804451efc99-14158587.png</picture>
-<name>Комплект Фисташка | Размер Евро | 100% натуральный хлопок</name>
-<vendor>Скромность</vendor>
-<description><![CDATA[Подходит для кроватей шириной 160–200 см.Высокая износостойкость, выдерживает более 200 стирок — изделие долго не собирает катышки и не линяет. ]]></description>
-</offer>
-</offers>
-</shop>
+<yml_catalog date="2025-07-19 12:16">
+  <shop>
+    <name>Скромность</name>
+    <company>skromnosty.ru</company>
+    <url>https://skromnosty.ru</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Постельное бельё</category>
+    </categories>
+    <offers>
+      <offer id="carbon" available="true">
+        <url>https://skromnosty.ru/product-vofslvs</url>
+        <price>17500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/vofslvs/55072da6-4d34-4abd-8ef8-ffb3ba43dfe6/55072da6-4d34-4abd-8ef8-ffb3ba43dfe6-14175744.png</picture>
+        <delivery>true</delivery>
+        <typePrefix>Постельное бельё</typePrefix>
+        <vendor>Скромность</vendor>
+        <model>Постельное бельё, цвет Графит (темно-серый), размер Евро</model>
+        <name>Постельное белье Скромность | Цвет Графит | Размер Евро</name>
+        <description>Премиальный текстиль для дома — комплект постельного белья в элегантном графитовом цвете из премиального сатина (100% хлопок). Плотность ткани 125 г/м² с переплетением TC 300 обеспечивает прочность и износостойкость. Цвет сохраняется насыщенным после более 200 стирок</description>
+        <sales_notes>Бесплатная доставка при заказе от 12 000 ₽</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Цвет">Графит</param>
+        <param name="Материал">100% хлопок, премиальный сатин</param>
+        <param name="Плотность">TC 300</param>
+        <param name="Размер пододеяльника">200×220 см</param>
+        <param name="Размер простыни">220×240 см</param>
+        <param name="Размер наволочек">50×70 см (2 шт)</param>
+      </offer>
+      <offer id="mocha" available="true">
+        <url>https://skromnosty.ru/product-bncfyej</url>
+        <price>17500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/bncfyej/8b927860-d680-40a6-a43f-27ed385b2d2c/8b927860-d680-40a6-a43f-27ed385b2d2c-14175747.png</picture>
+        <delivery>true</delivery>
+        <typePrefix>Постельное бельё</typePrefix>
+        <vendor>Скромность</vendor>
+        <model>Постельное бельё, цвет Мокко (бежевый), размер Евро</model>
+        <name>Постельное белье Скромность | Цвет Мокко | Размер Евро</name>
+        <description>Постельное белье в нежном Мокко оттенке с жемчужным переливом. Подходит для кроватей шириной 160–200 см. Сатин 60s, 100% хлопок. Плотность 125 г/м², переплетение ТС 300, изящный шелковый блеск, высокая износостойкость, выдерживает более 200 стирок</description>
+        <sales_notes>Бесплатная доставка при заказе от 12 000 ₽</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Цвет">Мокко</param>
+        <param name="Материал">100% хлопок, премиальный сатин</param>
+        <param name="Плотность">TC 300</param>
+        <param name="Размер пододеяльника">200×220 см</param>
+        <param name="Размер простыни">220×240 см</param>
+        <param name="Размер наволочек">50×70 см (2 шт)</param>
+      </offer>
+      <offer id="smoke" available="true">
+        <url>https://skromnosty.ru/product-xugqbwg</url>
+        <price>17500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/xugqbwg/c43e61c8-e015-4faa-b6b5-922c850b096f/c43e61c8-e015-4faa-b6b5-922c850b096f-14158542.png</picture>
+        <delivery>true</delivery>
+        <typePrefix>Постельное бельё</typePrefix>
+        <vendor>Скромность</vendor>
+        <model>Постельное бельё, цвет Дым (темно-синий), размер Евро</model>
+        <name>Постельное белье  Скромность | Цвет Дым | Размер Евро</name>
+        <description>Комплект постельного белья в глубоких дымчатых оттенках. Сатин, 100% хлопка. Плотность ткани 125 г/м² и переплетение TC 300 обеспечивают высокую прочность. Цвет сохраняет глубину и не выцветает даже после множества стирок</description>
+        <sales_notes>Бесплатная доставка при заказе от 12 000 ₽</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Цвет">Дым</param>
+        <param name="Материал">100% хлопок, премиальный сатин</param>
+        <param name="Плотность">TC 300</param>
+        <param name="Размер пододеяльника">200×220 см</param>
+        <param name="Размер простыни">220×240 см</param>
+        <param name="Размер наволочек">50×70 см (2 шт)</param>
+      </offer>
+      <offer id="garnet" available="true">
+        <url>https://skromnosty.ru/product-kklxfhm</url>
+        <price>17500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/kklxfhm/626f8053-9ba0-46ad-8a2a-7440177e82a1/626f8053-9ba0-46ad-8a2a-7440177e82a1-14158532.png</picture>
+        <delivery>true</delivery>
+        <typePrefix>Постельное бельё</typePrefix>
+        <vendor>Скромность</vendor>
+        <model>Постельное бельё, цвет Гранат (темно-красный, бордо), размер Евро</model>
+        <name>Постельное белье Скромность  | Цвет Гранат | Размер Евро</name>
+        <description>Элегантный комплект постельного белья в насыщенном гранатовом цвете. Премиальный сатин. Ткань с плотностью 125 г/м² и переплетением TC 300 отличается высокой износостойкостью. Цвет остаётся насыщенным даже после регулярных стирок</description>
+        <sales_notes>Бесплатная доставка при заказе от 12 000 ₽</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Цвет">Гранат</param>
+        <param name="Материал">100% хлопок, премиальный сатин</param>
+        <param name="Плотность">TC 300</param>
+        <param name="Размер пододеяльника">200×220 см</param>
+        <param name="Размер простыни">220×240 см</param>
+        <param name="Размер наволочек">50×70 см (2 шт)</param>
+      </offer>
+      <offer id="silver" available="true">
+        <url>https://skromnosty.ru/product-djxwahv</url>
+        <price>17500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/djxwahv/258ce449-47d1-42e0-96b0-852c0ac2aa02/258ce449-47d1-42e0-96b0-852c0ac2aa02-14158578.png</picture>
+        <delivery>true</delivery>
+        <typePrefix>Постельное бельё</typePrefix>
+        <vendor>Скромность</vendor>
+        <model>Постельное бельё, цвет Серебро (светло-серый, платиновый), размер Евро</model>
+        <name>Постельное белье Скромность | Цвет Серебро | Размер Евро</name>
+        <description>Премиальный комплект постельного белья в серебристом цвете с лёгким блеском сатина (100% хлопок). Плотность ткани 125 г/м² и переплетение TC 300 обеспечивают прочность и долгий срок службы. Цвет сохраняет яркость после более 200 стирок</description>
+        <sales_notes>Бесплатная доставка при заказе от 12 000 ₽</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Цвет">Серебро</param>
+        <param name="Материал">100% хлопок, премиальный сатин</param>
+        <param name="Плотность">TC 300</param>
+        <param name="Размер пододеяльника">200×220 см</param>
+        <param name="Размер простыни">220×240 см</param>
+        <param name="Размер наволочек">50×70 см (2 шт)</param>
+      </offer>
+      <offer id="lavender" available="true">
+        <url>https://skromnosty.ru/product-fftrxky</url>
+        <price>17500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/fftrxky/dacb2838-0f25-4088-b95a-880ee4a39e61/dacb2838-0f25-4088-b95a-880ee4a39e61-14158566.png</picture>
+        <delivery>true</delivery>
+        <typePrefix>Постельное бельё</typePrefix>
+        <vendor>Скромность</vendor>
+        <model>Постельное бельё, цвет Лаванда (лавандовый, сиреневый), размер Евро</model>
+        <name>Постельное белье Скромность | Цвет Лаванда | Размер Евро</name>
+        <description>Комплект постельного белья в нежном лавандовом цвете из премиального сатина. Материал 100% хлопок, плотность 125 г/м², переплетение TC 300. Цвет долго сохраняет свежесть, не выцветает и не скатывается. Изделие мягкое, лёгкое и долговечное</description>
+        <sales_notes>Бесплатная доставка при заказе от 12 000 ₽</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Цвет">Лаванда</param>
+        <param name="Материал">100% хлопок, премиальный сатин</param>
+        <param name="Плотность">TC 300</param>
+        <param name="Размер пододеяльника">200×220 см</param>
+        <param name="Размер простыни">220×240 см</param>
+        <param name="Размер наволочек">50×70 см (2 шт)</param>
+      </offer>
+      <offer id="ocean" available="true">
+        <url>https://skromnosty.ru/product-bvtzuqb</url>
+        <price>17500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/bvtzuqb/e355c684-fd54-4e73-806a-67f61dc93c43/e355c684-fd54-4e73-806a-67f61dc93c43-14175752.png</picture>
+        <delivery>true</delivery>
+        <typePrefix>Постельное бельё</typePrefix>
+        <vendor>Скромность</vendor>
+        <model>Постельное бельё, цвет Океан (синий), размер Евро</model>
+        <name>Постельное белье Скромность | Цвет Океан | Размер Евро</name>
+        <description>Постельное белье в насыщенном цвете океана из премиального сатина. Плотность 125 г/м², TC 300. Яркий цвет остаётся стойким даже после 200 стирок. Ткань не линяет, не образует катышков. Размер подходит для кроватей шириной 160–200 см</description>
+        <sales_notes>Бесплатная доставка при заказе от 12 000 ₽</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Цвет">Океан</param>
+        <param name="Материал">100% хлопок, премиальный сатин</param>
+        <param name="Плотность">TC 300</param>
+        <param name="Размер пододеяльника">200×220 см</param>
+        <param name="Размер простыни">220×240 см</param>
+        <param name="Размер наволочек">50×70 см (2 шт)</param>
+      </offer>
+      <offer id="sand" available="true">
+        <url>https://skromnosty.ru/product-yeapfgy</url>
+        <price>17500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/yeapfgy/ba496968-0a0d-427e-aaf6-0e0db6b25e78/ba496968-0a0d-427e-aaf6-0e0db6b25e78-14175761.png</picture>
+        <delivery>true</delivery>
+        <typePrefix>Постельное бельё</typePrefix>
+        <vendor>Скромность</vendor>
+        <model>Постельное бельё, цвет Теплый песок (светло-коричневый), размер Евро</model>
+        <name>Постельное белье Скромность | Цвет Теплый песок | Размер Евро</name>
+        <description>Постельное белье, размер евро в тёплом цвете песка (светло-коричневый) из сатина 60s. Изготовлено из 100% хлопка с плотностью 125 г/м². Мягкий, приятный на ощупь материал, устойчивый к износу. Цвет не выгорает и не тускнеет после множества стирок</description>
+        <sales_notes>Бесплатная доставка при заказе от 12 000 ₽</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Цвет">Теплый песок</param>
+        <param name="Материал">100% хлопок, премиальный сатин</param>
+        <param name="Плотность">TC 300</param>
+        <param name="Размер пододеяльника">200×220 см</param>
+        <param name="Размер простыни">220×240 см</param>
+        <param name="Размер наволочек">50×70 см (2 шт)</param>
+      </offer>
+      <offer id="ice" available="true">
+        <url>https://skromnosty.ru/product-abgnrzl</url>
+        <price>17500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/abgnrzl/f1ba7b8e-c742-4277-a0af-c0e2aa1a5282/f1ba7b8e-c742-4277-a0af-c0e2aa1a5282-14158649.png</picture>
+        <delivery>true</delivery>
+        <typePrefix>Постельное бельё</typePrefix>
+        <vendor>Скромность</vendor>
+        <model>Постельное бельё, цвет Лёд (голубой), размер Евро</model>
+        <name>Постельное белье Скромность | Цвет Лёд | Размер Евро</name>
+        <description>Постельное белье в ледяном оттенке. Сатина 60s. 100% хлопок, TC 300, 125 г/м². Изделие долговечное, с шелковистым блеском, устойчивое к выцветанию. Ткань не линяет, сохраняет структуру и мягкость даже после сотен стирок</description>
+        <sales_notes>Бесплатная доставка при заказе от 12 000 ₽</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Цвет">Лёд</param>
+        <param name="Материал">100% хлопок, премиальный сатин</param>
+        <param name="Плотность">TC 300</param>
+        <param name="Размер пододеяльника">200×220 см</param>
+        <param name="Размер простыни">220×240 см</param>
+        <param name="Размер наволочек">50×70 см (2 шт)</param>
+      </offer>
+      <offer id="olive" available="true">
+        <url>https://skromnosty.ru/product-hcygzqa</url>
+        <price>17500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/hcygzqa/6dcb7c2e-232c-4737-96a5-4804451efc99/6dcb7c2e-232c-4737-96a5-4804451efc99-14158587.png</picture>
+        <delivery>true</delivery>
+        <typePrefix>Постельное бельё</typePrefix>
+        <vendor>Скромность</vendor>
+        <model>Постельное бельё, цвет Фисташка (оливковый, светло-зеленый), размер Евро</model>
+        <name>Постельное белье Скромность | Цвет Фисташка | Размер Евро</name>
+        <description>Комплект постельного белья в фисташковом цвете. Премиальный сатин. 100% хлопок. Плотность 125 г/м², TC 300. Цвет долго сохраняет яркость, ткань не линяет и не скатывается. Мягкая, шелковистая поверхность и высокая износостойкость</description>
+        <sales_notes>Бесплатная доставка при заказе от 12 000 ₽</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Цвет">Фисташка</param>
+        <param name="Материал">100% хлопок, премиальный сатин</param>
+        <param name="Плотность">TC 300</param>
+        <param name="Размер пододеяльника">200×220 см</param>
+        <param name="Размер простыни">220×240 см</param>
+        <param name="Размер наволочек">50×70 см (2 шт)</param>
+      </offer>
+    </offers>
+  </shop>
 </yml_catalog>
