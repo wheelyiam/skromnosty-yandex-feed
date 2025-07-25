@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2025-07-25 16:48">
+<yml_catalog date="2025-07-25 17:15">
   <shop>
     <name>??????????</name>
     <company>skromnosty.ru</company>
@@ -11,7 +11,7 @@
       <category id="1">?????????? ?????</category>
     </categories>
     <offers>
-      <offer id="carbon" available="true">
+      <offer id="carbon" available="true ">
         <url>https://skromnosty.ru/product-vofslvs</url>
         <price>17500</price>
         <currencyId>RUB</currencyId>
@@ -34,7 +34,7 @@
         <param name="?????? ????????">220?240 ??</param>
         <param name="?????? ?????????">50?70 ?? (2 ??)</param>
       </offer>
-      <offer id="mocha" available="true">
+      <offer id="mocha" available="true ">
         <url>https://skromnosty.ru/product-bncfyej</url>
         <price>17500</price>
         <currencyId>RUB</currencyId>
@@ -57,7 +57,7 @@
         <param name="?????? ????????">220?240 ??</param>
         <param name="?????? ?????????">50?70 ?? (2 ??)</param>
       </offer>
-      <offer id="smoke" available="true">
+      <offer id="smoke" available="true ">
         <url>https://skromnosty.ru/product-xugqbwg</url>
         <price>17500</price>
         <currencyId>RUB</currencyId>
@@ -80,7 +80,7 @@
         <param name="?????? ????????">220?240 ??</param>
         <param name="?????? ?????????">50?70 ?? (2 ??)</param>
       </offer>
-      <offer id="garnet" available="true">
+      <offer id="garnet" available="true ">
         <url>https://skromnosty.ru/product-kklxfhm</url>
         <price>17500</price>
         <currencyId>RUB</currencyId>
@@ -103,7 +103,7 @@
         <param name="?????? ????????">220?240 ??</param>
         <param name="?????? ?????????">50?70 ?? (2 ??)</param>
       </offer>
-      <offer id="silver" available="true">
+      <offer id="silver" available="true ">
         <url>https://skromnosty.ru/product-djxwahv</url>
         <price>17500</price>
         <currencyId>RUB</currencyId>
@@ -126,7 +126,7 @@
         <param name="?????? ????????">220?240 ??</param>
         <param name="?????? ?????????">50?70 ?? (2 ??)</param>
       </offer>
-      <offer id="lavender" available="true">
+      <offer id="lavender" available="true ">
         <url>https://skromnosty.ru/product-fftrxky</url>
         <price>17500</price>
         <currencyId>RUB</currencyId>
@@ -149,7 +149,7 @@
         <param name="?????? ????????">220?240 ??</param>
         <param name="?????? ?????????">50?70 ?? (2 ??)</param>
       </offer>
-      <offer id="ocean" available="true">
+      <offer id="ocean" available="true ">
         <url>https://skromnosty.ru/product-bvtzuqb</url>
         <price>17500</price>
         <currencyId>RUB</currencyId>
@@ -171,7 +171,7 @@
         <param name="?????? ????????">220?240 ??</param>
         <param name="?????? ?????????">50?70 ?? (2 ??)</param>
       </offer>
-      <offer id="sand" available="true">
+      <offer id="sand" available="false ">
         <url>https://skromnosty.ru/product-yeapfgy</url>
         <price>17500</price>
         <currencyId>RUB</currencyId>
@@ -194,7 +194,7 @@
         <param name="?????? ????????">220?240 ??</param>
         <param name="?????? ?????????">50?70 ?? (2 ??)</param>
       </offer>
-      <offer id="ice" available="true">
+      <offer id="ice" available="false ">
         <url>https://skromnosty.ru/product-abgnrzl</url>
         <price>17500</price>
         <currencyId>RUB</currencyId>
@@ -217,7 +217,7 @@
         <param name="?????? ????????">220?240 ??</param>
         <param name="?????? ?????????">50?70 ?? (2 ??)</param>
       </offer>
-      <offer id="olive" available="true">
+      <offer id="olive" available="false ">
         <url>https://skromnosty.ru/product-hcygzqa</url>
         <price>17500</price>
         <currencyId>RUB</currencyId>
