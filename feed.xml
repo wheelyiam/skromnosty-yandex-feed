@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2025-08-06 02:55">
+<yml_catalog date="2025-08-06 14:20">
   <shop>
     <name>Скромность</name>
     <company>skromnosty.ru</company>
@@ -17,7 +17,9 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/vofslvs/8605e5db-a494-4829-ad50-62f17c458b6a/8605e5db-a494-4829-ad50-62f17c458b6a-14127774.png</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/vofslvs/0a6512c0-a572-472f-9291-1ec656757612/0a6512c0-a572-472f-9291-1ec656757612-14363256.jpeg</picture>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/vofslvs/55072da6-4d34-4abd-8ef8-ffb3ba43dfe6/55072da6-4d34-4abd-8ef8-ffb3ba43dfe6-14270528.png</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/vofslvs/17239e98-dd4d-4406-bd0d-e67a85c37473/17239e98-dd4d-4406-bd0d-e67a85c37473-14363257.jpeg</picture>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/vofslvs/103b8d16-4482-4354-9f68-6ae47242fee7/103b8d16-4482-4354-9f68-6ae47242fee7-14298361.png</picture>
         <delivery>true</delivery>
         <typePrefix>Постельное бельё</typePrefix>
@@ -51,11 +53,14 @@
       </offer>
       <offer id="mocha" available="true ">
         <url>https://skromnosty.ru/product-bncfyej</url>
-        <price>17500</price>
+        <price>15750</price>
+        <oldprice>17500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/bncfyej/c55fe0ff-c61d-468a-a998-ffbfd781eff5/c55fe0ff-c61d-468a-a998-ffbfd781eff5-14137015.png</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/bncfyej/3ad4707f-4b17-4b34-9207-6ce70ee72a7c/3ad4707f-4b17-4b34-9207-6ce70ee72a7c-14363307.jpeg</picture>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/bncfyej/8b927860-d680-40a6-a43f-27ed385b2d2c/8b927860-d680-40a6-a43f-27ed385b2d2c-14270705.png</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/bncfyej/aad96152-79e5-47d9-9d68-f679b30946f8/aad96152-79e5-47d9-9d68-f679b30946f8-14363308.jpeg</picture>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/bncfyej/f77f1a79-1b48-4e40-b62c-7d4cf1ea86cd/f77f1a79-1b48-4e40-b62c-7d4cf1ea86cd-14277429.png</picture>
         <delivery>true</delivery>
         <typePrefix>Постельное бельё</typePrefix>
@@ -93,7 +98,9 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/xugqbwg/603708f5-8d42-4504-a6cf-c966069a1d97/603708f5-8d42-4504-a6cf-c966069a1d97-14156276.png</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/xugqbwg/4396a492-5c7e-4ab9-a797-1d1935e0a521/4396a492-5c7e-4ab9-a797-1d1935e0a521-14363271.jpeg</picture>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/xugqbwg/c43e61c8-e015-4faa-b6b5-922c850b096f/c43e61c8-e015-4faa-b6b5-922c850b096f-14158542.png</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/xugqbwg/fc0fd110-987e-4825-91c7-6470a525ab7c/fc0fd110-987e-4825-91c7-6470a525ab7c-14363270.jpeg</picture>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/xugqbwg/ca1b8f02-7c5c-4038-99af-e36cc14af164/ca1b8f02-7c5c-4038-99af-e36cc14af164-14270719.png</picture>
         <delivery>true</delivery>
         <typePrefix>Постельное бельё</typePrefix>
@@ -127,11 +134,14 @@
       </offer>
       <offer id="garnet" available="true ">
         <url>https://skromnosty.ru/product-kklxfhm</url>
-        <price>17500</price>
+        <price>14000</price>
+        <oldprice>17500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/kklxfhm/96b59d9e-3e82-4745-ade3-742f3e617178/96b59d9e-3e82-4745-ade3-742f3e617178-14297992.png</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/kklxfhm/0d2b061c-ede6-4cd1-bb79-0c6f5a55d108/0d2b061c-ede6-4cd1-bb79-0c6f5a55d108-14363431.jpeg</picture>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/kklxfhm/626f8053-9ba0-46ad-8a2a-7440177e82a1/626f8053-9ba0-46ad-8a2a-7440177e82a1-14297988.png</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/kklxfhm/2678ef28-df4c-4973-a066-53825485cf66/2678ef28-df4c-4973-a066-53825485cf66-14363432.jpeg</picture>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/kklxfhm/8393bfa9-fc96-4a5e-a754-5aad7932ee7f/8393bfa9-fc96-4a5e-a754-5aad7932ee7f-14269540.png</picture>
         <delivery>true</delivery>
         <typePrefix>Постельное бельё</typePrefix>
@@ -169,7 +179,9 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/djxwahv/f4f58d27-ab0f-4f62-99d6-f5d970b3ce8f/f4f58d27-ab0f-4f62-99d6-f5d970b3ce8f-14127804.png</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/djxwahv/c44b6db2-46f6-4fb7-a595-7277b754567e/c44b6db2-46f6-4fb7-a595-7277b754567e-14363351.jpeg</picture>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/djxwahv/258ce449-47d1-42e0-96b0-852c0ac2aa02/258ce449-47d1-42e0-96b0-852c0ac2aa02-14158578.png</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/djxwahv/7a7b7a88-a78e-4139-8845-54a8bee0f8e7/7a7b7a88-a78e-4139-8845-54a8bee0f8e7-14363350.jpeg</picture>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/djxwahv/cb67d1d7-dd99-4f23-83a8-ca4360899980/cb67d1d7-dd99-4f23-83a8-ca4360899980-14270641.png</picture>
         <delivery>true</delivery>
         <typePrefix>Постельное бельё</typePrefix>
@@ -203,11 +215,14 @@
       </offer>
       <offer id="lavender" available="true ">
         <url>https://skromnosty.ru/product-fftrxky</url>
-        <price>17500</price>
+        <price>14875</price>
+        <oldprice>17500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/fftrxky/75ec454e-21f9-4f73-9d6d-794263050c7c/75ec454e-21f9-4f73-9d6d-794263050c7c-14135470.png</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/fftrxky/22faadf2-6a18-4115-aafd-fe15d284cc4f/22faadf2-6a18-4115-aafd-fe15d284cc4f-14363281.jpeg</picture>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/fftrxky/dacb2838-0f25-4088-b95a-880ee4a39e61/dacb2838-0f25-4088-b95a-880ee4a39e61-14158566.png</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/fftrxky/4b1b753b-991d-4ee9-8204-c150f8d49fe0/4b1b753b-991d-4ee9-8204-c150f8d49fe0-14363282.jpeg</picture>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/fftrxky/6e170791-b107-4a17-beb0-6eab9db81862/6e170791-b107-4a17-beb0-6eab9db81862-14270567.png</picture>
         <delivery>true</delivery>
         <typePrefix>Постельное бельё</typePrefix>
@@ -241,11 +256,14 @@
       </offer>
       <offer id="ocean" available="true ">
         <url>https://skromnosty.ru/product-bvtzuqb</url>
-        <price>17500</price>
+        <price>14000</price>
+        <oldprice>17500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/bvtzuqb/bc28973d-802d-4941-86d1-4cc1d2fb21df/bc28973d-802d-4941-86d1-4cc1d2fb21df-14131220.png</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/bvtzuqb/c119b8f3-bc1c-412b-83f5-3d4300010669/c119b8f3-bc1c-412b-83f5-3d4300010669-14363317.jpeg</picture>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/bvtzuqb/e355c684-fd54-4e73-806a-67f61dc93c43/e355c684-fd54-4e73-806a-67f61dc93c43-14270552.png</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/bvtzuqb/46a5d8e4-89fd-40a7-a84c-618d029627bd/46a5d8e4-89fd-40a7-a84c-618d029627bd-14363316.jpeg</picture>
         <delivery>true</delivery>
         <typePrefix>Постельное бельё</typePrefix>
         <vendor>Скромность</vendor>
@@ -282,7 +300,9 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/yeapfgy/7c35534b-5ae4-4480-b0bc-cc445fbc30c4/7c35534b-5ae4-4480-b0bc-cc445fbc30c4-14131269.png</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/yeapfgy/4d3d1af9-aec3-457b-929d-4fdb9d3a9aa0/4d3d1af9-aec3-457b-929d-4fdb9d3a9aa0-14363361.jpeg</picture>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/yeapfgy/ba496968-0a0d-427e-aaf6-0e0db6b25e78/ba496968-0a0d-427e-aaf6-0e0db6b25e78-14270664.png</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/yeapfgy/0e84c60f-056b-42ff-85c9-e8d247868e74/0e84c60f-056b-42ff-85c9-e8d247868e74-14363360.jpeg</picture>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/yeapfgy/f007b786-4163-4242-bb2b-48dace6646a6/f007b786-4163-4242-bb2b-48dace6646a6-14270671.png</picture>
         <delivery>true</delivery>
         <typePrefix>Постельное бельё</typePrefix>
@@ -320,7 +340,9 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/abgnrzl/11b4b0f0-5d31-4814-8155-83a1f8e09a79/11b4b0f0-5d31-4814-8155-83a1f8e09a79-14131285.png</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/abgnrzl/3c4f07dc-5f49-4270-9407-3a2fab17166b/3c4f07dc-5f49-4270-9407-3a2fab17166b-14363294.jpeg</picture>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/abgnrzl/f1ba7b8e-c742-4277-a0af-c0e2aa1a5282/f1ba7b8e-c742-4277-a0af-c0e2aa1a5282-14158649.png</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/abgnrzl/4b8997d4-f79d-41bb-8b80-0bbca7bdc2f1/4b8997d4-f79d-41bb-8b80-0bbca7bdc2f1-14363295.jpeg</picture>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/abgnrzl/5abe490a-6b40-4d47-abea-62d678cb1887/5abe490a-6b40-4d47-abea-62d678cb1887-14307529.jpeg</picture>
         <delivery>true</delivery>
         <typePrefix>Постельное бельё</typePrefix>
@@ -358,7 +380,9 @@
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/hcygzqa/f07cd4f7-0c72-47b5-9446-0ee023c89194/f07cd4f7-0c72-47b5-9446-0ee023c89194-14131277.png</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/hcygzqa/c948f5f5-488c-4fff-be7a-356c6f9b15f8/c948f5f5-488c-4fff-be7a-356c6f9b15f8-14363409.jpeg</picture>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/hcygzqa/6dcb7c2e-232c-4737-96a5-4804451efc99/6dcb7c2e-232c-4737-96a5-4804451efc99-14158587.png</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/hcygzqa/12448637-04a7-4830-8a9e-97e3b524c2fc/12448637-04a7-4830-8a9e-97e3b524c2fc-14363408.jpeg</picture>
         <delivery>true</delivery>
         <typePrefix>Постельное бельё</typePrefix>
         <vendor>Скромность</vendor>
