@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2025-08-08 01:08">
+<yml_catalog date="2025-08-08 01:20">
   <shop>
     <name>Скромность</name>
     <company>skromnosty.ru</company>
@@ -14,7 +14,8 @@
       <offer id="carbon" available="true ">
         <url>https://skromnosty.ru/product-vofslvs?utm_source=yandex&utm_medium=cpc&utm_campaign=summer25&utm_content=grafit&utm_term={keyword}&placement={placement}
 </url>
-        <price>17500</price>
+        <price>14875</price>
+        <oldprice>17500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/vofslvs/8605e5db-a494-4829-ad50-62f17c458b6a/8605e5db-a494-4829-ad50-62f17c458b6a-14127774.png</picture>
@@ -97,7 +98,8 @@
       <offer id="smoke" available="true ">
         <url>https://skromnosty.ru/product-xugqbwg?utm_source=yandex&utm_medium=cpc&utm_campaign=summer25&utm_content=dym&utm_term={keyword}&placement={placement}
 </url>
-        <price>17500</price>
+        <price>14875</price>
+        <oldprice>17500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/xugqbwg/603708f5-8d42-4504-a6cf-c966069a1d97/603708f5-8d42-4504-a6cf-c966069a1d97-14156276.png</picture>
@@ -180,7 +182,8 @@
       <offer id="silver" available="true ">
         <url>https://skromnosty.ru/product-djxwahv?utm_source=yandex&utm_medium=cpc&utm_campaign=summer25&utm_content=serebro&utm_term={keyword}&placement={placement}
 </url>
-        <price>17500</price>
+        <price>15750</price>
+        <oldprice>17500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/djxwahv/f4f58d27-ab0f-4f62-99d6-f5d970b3ce8f/f4f58d27-ab0f-4f62-99d6-f5d970b3ce8f-14127804.png</picture>
