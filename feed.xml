@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2025-08-12 02:55">
+<yml_catalog date="2025-08-13 01:15">
   <shop>
     <name>Скромность</name>
     <company>skromnosty.ru</company>
@@ -12,7 +12,7 @@
     </categories>
     <offers>
       <offer id="carbon" available="true">
-        <url>https://skromnosty.ru/product-vofslvs?utm_source=yandex&amp;utm_medium=cpc&amp;utm_campaign=summer25&amp;utm_content=grafit&amp;utm_term={keyword}&amp;placement={placement}
+        <url>https://skromnosty.ru/product-vofslvs?utm_source=yandex&amp;utm_medium=cpc&amp;utm_campaign=summer25&amp;utm_content=grafit&amp;utm_term={keyword}&amp;placement={placement}&amp;geo={region_name}
 </url>
         <price>14875</price>
         <oldprice>17500</oldprice>
@@ -54,7 +54,8 @@
         <param name="Страна производства">Россия</param>
       </offer>
       <offer id="mocha" available="true">
-        <url>https://skromnosty.ru/product-bncfyej?utm_source=yandex&amp;utm_medium=cpc&amp;utm_campaign=summer25&amp;utm_content=grafit&amp;utm_term={keyword}&amp;placement={placement}
+        <url>https://skromnosty.ru/product-bncfyej?utm_source=yandex&amp;utm_medium=cpc&amp;utm_campaign=summer25&amp;utm_content=mokko&amp;utm_term={keyword}&amp;placement={placement}&amp;geo={region_name}
+
 </url>
         <price>15750</price>
         <oldprice>17500</oldprice>
@@ -96,7 +97,8 @@
         <param name="Страна производства">Россия</param>
       </offer>
       <offer id="smoke" available="true">
-        <url>https://skromnosty.ru/product-xugqbwg?utm_source=yandex&amp;utm_medium=cpc&amp;utm_campaign=summer25&amp;utm_content=grafit&amp;utm_term={keyword}&amp;placement={placement}
+        <url>https://skromnosty.ru/product-xugqbwg?utm_source=yandex&amp;utm_medium=cpc&amp;utm_campaign=summer25&amp;utm_content=dymchato-goluboy&amp;utm_term={keyword}&amp;placement={placement}&amp;geo={region_name}
+
 </url>
         <price>14875</price>
         <oldprice>17500</oldprice>
@@ -138,8 +140,9 @@
         <param name="Страна производства">Россия</param>
       </offer>
       <offer id="garnet" available="true">
-        <url>https://skromnosty.ru/product-kklxfhm?utm_source=yandex&amp;utm_medium=cpc&amp;utm_campaign=summer25&amp;utm_content=grafit&amp;utm_term={keyword}&amp;placement={placement}</url>
-        <price>14000</price>
+        <url>https://skromnosty.ru/product-kklxfhm?utm_source=yandex&amp;utm_medium=cpc&amp;utm_campaign=summer25&amp;utm_content=granat&amp;utm_term={keyword}&amp;placement={placement}&amp;geo={region_name}
+</url>
+        <price>12250</price>
         <oldprice>17500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
@@ -179,8 +182,7 @@
         <param name="Страна производства">Россия</param>
       </offer>
       <offer id="silver" available="true">
-        <url>https://skromnosty.ru/product-djxwahv?utm_source=yandex&amp;utm_medium=cpc&amp;utm_campaign=summer25&amp;utm_content=grafit&amp;utm_term={keyword}&amp;placement={placement}
-</url>
+        <url>https://skromnosty.ru/product-djxwahv?utm_source=yandex&amp;utm_medium=cpc&amp;utm_campaign=summer25&amp;utm_content=serebro&amp;utm_term={keyword}&amp;placement={placement}&amp;geo={region_name}</url>
         <price>15750</price>
         <oldprice>17500</oldprice>
         <currencyId>RUB</currencyId>
@@ -221,7 +223,8 @@
         <param name="Страна производства">Россия</param>
       </offer>
       <offer id="lavender" available="true">
-        <url>https://skromnosty.ru/product-fftrxky?utm_source=yandex&amp;utm_medium=cpc&amp;utm_campaign=summer25&amp;utm_content=grafit&amp;utm_term={keyword}&amp;placement={placement}
+        <url>https://skromnosty.ru/product-fftrxky?utm_source=yandex&amp;utm_medium=cpc&amp;utm_campaign=summer25&amp;utm_content=lavanda&amp;utm_term={keyword}&amp;placement={placement}&amp;geo={region_name}
+
 </url>
         <price>14875</price>
         <oldprice>17500</oldprice>
@@ -263,7 +266,8 @@
         <param name="Страна производства">Россия</param>
       </offer>
       <offer id="ocean" available="true">
-        <url>https://skromnosty.ru/product-bvtzuqb?utm_source=yandex&amp;utm_medium=cpc&amp;utm_campaign=summer25&amp;utm_content=grafit&amp;utm_term={keyword}&amp;placement={placement}
+        <url>https://skromnosty.ru/product-bvtzuqb?utm_source=yandex&amp;utm_medium=cpc&amp;utm_campaign=summer25&amp;utm_content=okean&amp;utm_term={keyword}&amp;placement={placement}&amp;geo={region_name}
+
 </url>
         <price>14000</price>
         <oldprice>17500</oldprice>
@@ -305,7 +309,8 @@
         <param name="Страна производства">Россия</param>
       </offer>
       <offer id="sand" available="false">
-        <url>https://skromnosty.ru/product-yeapfgy?utm_source=yandex&amp;utm_medium=cpc&amp;utm_campaign=summer25&amp;utm_content=grafit&amp;utm_term={keyword}&amp;placement={placement}
+        <url>https://skromnosty.ru/product-yeapfgy?utm_source=yandex&amp;utm_medium=cpc&amp;utm_campaign=summer25&amp;utm_content=teplyy-pesok&amp;utm_term={keyword}&amp;placement={placement}&amp;geo={region_name}
+
 </url>
         <price>17500</price>
         <currencyId>RUB</currencyId>
@@ -346,7 +351,7 @@
         <param name="Страна производства">Россия</param>
       </offer>
       <offer id="ice" available="false">
-        <url>https://skromnosty.ru/product-abgnrzl?utm_source=yandex&amp;utm_medium=cpc&amp;utm_campaign=summer25&amp;utm_content=grafit&amp;utm_term={keyword}&amp;placement={placement}
+        <url>https://skromnosty.ru/product-abgnrzl?utm_source=yandex&amp;utm_medium=cpc&amp;utm_campaign=summer25&amp;utm_content=led&amp;utm_term={keyword}&amp;placement={placement}&amp;geo={region_name}
 </url>
         <price>17500</price>
         <currencyId>RUB</currencyId>
@@ -387,7 +392,7 @@
         <param name="Страна производства">Россия</param>
       </offer>
       <offer id="olive" available="false">
-        <url>https://skromnosty.ru/product-hcygzqa?utm_source=yandex&amp;utm_medium=cpc&amp;utm_campaign=summer25&amp;utm_content=grafit&amp;utm_term={keyword}&amp;placement={placement}</url>
+        <url>https://skromnosty.ru/product-hcygzqa?utm_source=yandex&amp;utm_medium=cpc&amp;utm_campaign=summer25&amp;utm_content=fistashka&amp;utm_term={keyword}&amp;placement={placement}&amp;geo={region_name}</url>
         <price>17500</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
