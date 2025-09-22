@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2025-09-22 02:55">
+<yml_catalog date="2025-09-23 00:03">
   <shop>
     <name>Скромность</name>
     <company>skromnosty.ru</company>
@@ -14,7 +14,8 @@
       <offer id="carbon" available="true">
         <url>https://skromnosty.ru/product-vofslvs?utm_source=yandex&amp;utm_medium=cpc&amp;utm_campaign=first20&amp;utm_content=carbon&amp;utm_term={keyword}&amp;placement={placement}&amp;geo={region_name}
 </url>
-        <price>17490</price>
+        <price>15490</price>
+        <oldprice>17490</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/vofslvs/0cf937eb-8a60-45a9-b4b2-f74912fa8bc0/0cf937eb-8a60-45a9-b4b2-f74912fa8bc0-14551319.jpeg</picture>
@@ -102,7 +103,8 @@
         <url>https://skromnosty.ru/product-xugqbwg?utm_source=yandex&amp;utm_medium=cpc&amp;utm_campaign=first20&amp;utm_content=smoke&amp;utm_term={keyword}&amp;placement={placement}&amp;geo={region_name}
 
 </url>
-        <price>17490</price>
+        <price>15990</price>
+        <oldprice>17490</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/xugqbwg/d98df503-63a3-486b-8831-aa508a5ed36f/d98df503-63a3-486b-8831-aa508a5ed36f-14551375.jpeg</picture>
@@ -231,7 +233,8 @@
         <url>https://skromnosty.ru/product-fftrxky?utm_source=yandex&amp;utm_medium=cpc&amp;utm_campaign=first20&amp;utm_content=lavender&amp;utm_term={keyword}&amp;placement={placement}&amp;geo={region_name}
 
 </url>
-        <price>17490</price>
+        <price>16190</price>
+        <oldprice>17490</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/fftrxky/272c0fc1-bf99-4980-8013-5014de364af2/272c0fc1-bf99-4980-8013-5014de364af2-14550983.jpeg</picture>
@@ -275,7 +278,8 @@
         <url>https://skromnosty.ru/product-bvtzuqb?utm_source=yandex&amp;utm_medium=cpc&amp;utm_campaign=first20&amp;utm_content=ocean&amp;utm_term={keyword}&amp;placement={placement}&amp;geo={region_name}
 
 </url>
-        <price>17490</price>
+        <price>15490</price>
+        <oldprice>17490</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/bvtzuqb/eb6b7a1e-e749-493f-8776-c81ccfcfa4c5/eb6b7a1e-e749-493f-8776-c81ccfcfa4c5-14550890.jpeg</picture>
