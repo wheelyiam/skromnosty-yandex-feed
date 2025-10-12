@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2025-10-12 19:41">
+<yml_catalog date="2025-10-13 01:41">
   <shop>
     <name>Скромность</name>
     <company>skromnosty.ru</company>
@@ -14,7 +14,8 @@
       <offer id="carbon" available="true">
         <url>https://skromnosty.ru/product-vofslvs
 </url>
-        <price>17500</price>
+        <price>15750</price>
+        <oldprice>17500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/vofslvs/0cf937eb-8a60-45a9-b4b2-f74912fa8bc0/0cf937eb-8a60-45a9-b4b2-f74912fa8bc0-14551319.jpeg</picture>
@@ -228,7 +229,8 @@
       </offer>
       <offer id="lavender" available="true">
         <url>https://skromnosty.ru/product-fftrxky</url>
-        <price>17500</price>
+        <price>15750</price>
+        <oldprice>17500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/fftrxky/272c0fc1-bf99-4980-8013-5014de364af2/272c0fc1-bf99-4980-8013-5014de364af2-14550983.jpeg</picture>
@@ -272,7 +274,8 @@
         <url>https://skromnosty.ru/product-bvtzuqb
 
 </url>
-        <price>17500</price>
+        <price>15750</price>
+        <oldprice>17500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/bvtzuqb/eb6b7a1e-e749-493f-8776-c81ccfcfa4c5/eb6b7a1e-e749-493f-8776-c81ccfcfa4c5-14550890.jpeg</picture>
