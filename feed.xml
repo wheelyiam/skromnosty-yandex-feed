@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2025-10-18 02:55">
+<yml_catalog date="2025-10-19 00:48">
   <shop>
     <name>Скромность</name>
     <company>skromnosty.ru</company>
@@ -321,7 +321,7 @@
         <url>https://skromnosty.ru/product-yeapfgy
 
 </url>
-        <price>17500</price>
+        <price>9250</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/yeapfgy/7c35534b-5ae4-4480-b0bc-cc445fbc30c4/7c35534b-5ae4-4480-b0bc-cc445fbc30c4-14131269.png</picture>
@@ -342,10 +342,10 @@
         <param name="Плотность ткани г/м²">125</param>
         <param name="Цвет">Теплый песок</param>
         <param name="Цвет для фильтра">Песочный</param>
-        <param name="Размерность">Евро</param>
-        <param name="Размер пододеяльника">200 x 220</param>
-        <param name="Размер простыни">220 x 240</param>
-        <param name="Размер наволочки">50 x 70</param>
+        <param name="Размерность">1,5 спальный</param>
+        <param name="Размер пододеяльника">145 x 210</param>
+        <param name="Размер простыни">150 x 210</param>
+        <param name="Размер наволочки">70 x 70</param>
         <param name="Количество наволочек">2</param>
         <param name="Количество пододеяльников">1</param>
         <param name="Количество простыней">1</param>
@@ -362,7 +362,7 @@
       <offer id="ice" available="false">
         <url>https://skromnosty.ru/product-abgnrzl
 </url>
-        <price>17500</price>
+        <price>9250</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/abgnrzl/11b4b0f0-5d31-4814-8155-83a1f8e09a79/11b4b0f0-5d31-4814-8155-83a1f8e09a79-14131285.png</picture>
@@ -383,10 +383,10 @@
         <param name="Плотность ткани г/м²">125</param>
         <param name="Цвет">Лёд</param>
         <param name="Цвет для фильтра">Голубой</param>
-        <param name="Размерность">Евро</param>
-        <param name="Размер пододеяльника">200 x 220</param>
-        <param name="Размер простыни">220 x 240</param>
-        <param name="Размер наволочки">50 x 70</param>
+        <param name="Размерность">1,5 спальный</param>
+        <param name="Размер пододеяльника">145 x 210</param>
+        <param name="Размер простыни">150 x 210</param>
+        <param name="Размер наволочки">70 x 70</param>
         <param name="Количество наволочек">2</param>
         <param name="Количество пододеяльников">1</param>
         <param name="Количество простыней">1</param>
@@ -402,7 +402,7 @@
       </offer>
       <offer id="olive" available="false">
         <url>https://skromnosty.ru/product-hcygzqa</url>
-        <price>17500</price>
+        <price>9250</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/hcygzqa/f07cd4f7-0c72-47b5-9446-0ee023c89194/f07cd4f7-0c72-47b5-9446-0ee023c89194-14131277.png</picture>
@@ -422,10 +422,10 @@
         <param name="Плотность ткани г/м²">125</param>
         <param name="Цвет">Фисташка</param>
         <param name="Цвет для фильтра">Фисташковый</param>
-        <param name="Размерность">Евро</param>
-        <param name="Размер пододеяльника">200 x 220</param>
-        <param name="Размер простыни">220 x 240</param>
-        <param name="Размер наволочки">50 x 70</param>
+        <param name="Размерность">1,5 спальный</param>
+        <param name="Размер пододеяльника">145 x 210</param>
+        <param name="Размер простыни">150 x 210</param>
+        <param name="Размер наволочки">70 x 70</param>
         <param name="Количество наволочек">2</param>
         <param name="Количество пододеяльников">1</param>
         <param name="Количество простыней">1</param>
