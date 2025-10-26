@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2025-10-26 02:55">
+<yml_catalog date="2025-10-26 18:29">
   <shop>
     <name>Скромность</name>
     <company>skromnosty.ru</company>
@@ -14,7 +14,7 @@
       <offer id="carbon" available="true">
         <url>https://skromnosty.ru/product-vofslvs
 </url>
-        <price>15750</price>
+        <price>13750</price>
         <oldprice>17500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
@@ -58,7 +58,7 @@
       <offer id="mocha" available="true">
         <url>https://skromnosty.ru/product-bncfyej
 </url>
-        <price>16625</price>
+        <price>13900</price>
         <oldprice>17500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
@@ -103,7 +103,8 @@
         <url>https://skromnosty.ru/product-xugqbwg
 
 </url>
-        <price>17500</price>
+        <price>14500</price>
+        <oldprice>17500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/xugqbwg/d98df503-63a3-486b-8831-aa508a5ed36f/d98df503-63a3-486b-8831-aa508a5ed36f-14551375.jpeg</picture>
@@ -146,7 +147,8 @@
       <offer id="garnet" available="true">
         <url>https://skromnosty.ru/product-kklxfhm
 </url>
-        <price>17500</price>
+        <price>14500</price>
+        <oldprice>17500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/kklxfhm/7bcddead-8a14-4ca8-a5ef-1d192865de5a/7bcddead-8a14-4ca8-a5ef-1d192865de5a-14550462.jpeg</picture>
@@ -231,7 +233,7 @@
       </offer>
       <offer id="lavender" available="true">
         <url>https://skromnosty.ru/product-fftrxky</url>
-        <price>16625</price>
+        <price>13900</price>
         <oldprice>17500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
@@ -276,7 +278,7 @@
         <url>https://skromnosty.ru/product-bvtzuqb
 
 </url>
-        <price>16625</price>
+        <price>14600</price>
         <oldprice>17500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
