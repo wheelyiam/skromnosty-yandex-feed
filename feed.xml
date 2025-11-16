@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2025-11-16 02:55">
+<yml_catalog date="2025-11-16 21:37">
   <shop>
     <name>Скромность</name>
     <company>skromnosty.ru</company>
@@ -29,7 +29,7 @@
         <typePrefix>Постельное белье</typePrefix>
         <vendor>Скромность</vendor>
         <name>Постельное белье Скромность | Комплект Графит | Премиальный сатин</name>
-        <description>Постельное белье премиум-класса из 100% хлопка сатинового плетения. Ткань дышащая, легкая и прочная. Сохраняет форму и цвет после 200 стирок — не скатывается и не линяет.</description>
+        <description>Комплект постельного белья Графит, из 100% хлопка сатинового плетения. Ткань дышащая, легкая и прочная. Сохраняет форму и цвет после 200 стирок — не скатывается и не линяет.</description>
         <sales_notes>Бесплатная доставка при заказе от 12 000 ₽</sales_notes>
         <country_of_origin>Россия</country_of_origin>
         <param name="Состав ткани">100% хлопок</param>
@@ -73,7 +73,7 @@
         <typePrefix>Постельное белье</typePrefix>
         <vendor>Скромность</vendor>
         <name>Постельное белье Скромность | Комплект Мокко | Премиальный сатин</name>
-        <description>Комплект постельного белья в кофейно бежевом цвете из 100% хлопка сатинового плетения. В составе только натуральные и гипоаллергенные материалы. Ткань дышащая, легкая и прочная. Сохраняет форму и цвет после 200 стирок — не скатывается и не линяет.</description>
+        <description>Комплект постельного белья Мокко, из 100% хлопка сатинового плетения. В составе только натуральные и гипоаллергенные материалы. Ткань дышащая, легкая и прочная. Сохраняет форму и цвет после 200 стирок — не скатывается и не линяет.</description>
         <sales_notes>Бесплатная доставка при заказе от 12 000 ₽</sales_notes>
         <country_of_origin>Россия</country_of_origin>
         <param name="Состав ткани">100% хлопок</param>
@@ -118,7 +118,7 @@
         <typePrefix>Постельное белье</typePrefix>
         <vendor>Скромность</vendor>
         <name>Постельное белье  Скромность | Комплект Дым | Премиальный сатин</name>
-        <description>Комплект постельного белья в дымчато-сером цвете из 100% хлопка сатинового плетения. В составе только натуральные и гипоаллергенные материалы. Ткань дышащая, легкая и прочная. Сохраняет форму и цвет после 200 стирок — не скатывается и не линяет.</description>
+        <description>Комплект постельного белья Дым, из 100% хлопка сатинового плетения. В составе только натуральные и гипоаллергенные материалы. Ткань дышащая, легкая и прочная. Сохраняет форму и цвет после 200 стирок — не скатывается и не линяет.</description>
         <sales_notes>Бесплатная доставка при заказе от 12 000 ₽</sales_notes>
         <country_of_origin>Россия</country_of_origin>
         <param name="Состав ткани">100% хлопок</param>
@@ -126,7 +126,7 @@
         <param name="Плотность (TC)">300</param>
         <param name="Плотность ткани г/м²">125</param>
         <param name="Цвет">Дым</param>
-        <param name="Цвет для фильтра">Темно-синий</param>
+        <param name="Цвет для фильтра">Холодный серый</param>
         <param name="Размерность">Евро</param>
         <param name="Размер пододеяльника">200 x 220</param>
         <param name="Размер простыни">220 x 240</param>
@@ -162,7 +162,7 @@
         <typePrefix>Постельное белье</typePrefix>
         <vendor>Скромность</vendor>
         <name>Постельное белье Скромность | Комплект Гранат | Премиальный сатин</name>
-        <description>Комплект постельного белья в насыщенном гранатовом цвете из 100% хлопкат сатинового плетения. В составе только натуральные и гипоаллергенные материалы. Ткань дышащая, легкая и прочная. Сохраняет форму и цвет после 200 стирок — не скатывается и не линяет.</description>
+        <description>Комплект постельного белья Гранат, из 100% хлопкат сатинового плетения. В составе только натуральные и гипоаллергенные материалы. Ткань дышащая, легкая и прочная. Сохраняет форму и цвет после 200 стирок — не скатывается и не линяет.</description>
         <sales_notes>Бесплатная доставка при заказе от 12 000 ₽</sales_notes>
         <country_of_origin>Россия</country_of_origin>
         <param name="Состав ткани">100% хлопок</param>
@@ -205,7 +205,7 @@
         <typePrefix>Постельное белье</typePrefix>
         <vendor>Скромность</vendor>
         <name>Постельное белье Скромность | Комплект Серебро | Премиальный сатин</name>
-        <description>Комплект постельного белья в серебристом цвете из 100% хлопка сатинового плетения. В составе только натуральные и гипоаллергенные материалы. Ткань дышащая, легкая и прочная. Сохраняет форму и цвет после 200 стирок — не скатывается и не линяет.</description>
+        <description>Комплект постельного белья Серебро, из 100% хлопка сатинового плетения. В составе только натуральные и гипоаллергенные материалы. Ткань дышащая, легкая и прочная. Сохраняет форму и цвет после 200 стирок — не скатывается и не линяет.</description>
         <sales_notes>Бесплатная доставка при заказе от 12 000 ₽</sales_notes>
         <country_of_origin>Россия</country_of_origin>
         <param name="Состав ткани">100% хлопок</param>
@@ -248,7 +248,7 @@
         <typePrefix>Постельное белье</typePrefix>
         <vendor>Скромность</vendor>
         <name>Постельное белье Скромность | Комплект Лаванда | Премиальный сатин</name>
-        <description>Комплект постельного белья в нежном лавандовом цвете из 100% хлопка сатинового плетения. В составе только натуральные и гипоаллергенные материалы. Ткань дышащая, легкая и прочная. Сохраняет форму и цвет после 200 стирок — не скатывается и не линяет.</description>
+        <description>Комплект постельного белья Лаванда, из 100% хлопка сатинового плетения. В составе только натуральные и гипоаллергенные материалы. Ткань дышащая, легкая и прочная. Сохраняет форму и цвет после 200 стирок — не скатывается и не линяет.</description>
         <sales_notes>Бесплатная доставка при заказе от 12 000 ₽</sales_notes>
         <country_of_origin>Россия</country_of_origin>
         <param name="Состав ткани">100% хлопок</param>
@@ -293,7 +293,7 @@
         <typePrefix>Постельное белье</typePrefix>
         <vendor>Скромность</vendor>
         <name>Постельное белье Скромность | Комплект Океан | Премиальный сатин</name>
-        <description>Комплект постельного белья в насыщенном цвете океан из 100% хлопка сатинового плетения. В составе только натуральные и гипоаллергенные материалы. Ткань дышащая, легкая и прочная. Сохраняет форму и цвет после 200 стирок — не скатывается и не линяет.</description>
+        <description>Комплект постельного белья Океан, из 100% хлопка сатинового плетения. В составе только натуральные и гипоаллергенные материалы. Ткань дышащая, легкая и прочная. Сохраняет форму и цвет после 200 стирок — не скатывается и не линяет.</description>
         <sales_notes>Бесплатная доставка при заказе от 12 000 ₽</sales_notes>
         <country_of_origin>Россия</country_of_origin>
         <param name="Состав ткани">100% хлопок</param>
@@ -319,31 +319,31 @@
         <param name="Количество предметов">4</param>
         <param name="Страна производства">Россия</param>
       </offer>
-      <offer id="sand" available="false">
+      <offer id="noir" available="true">
         <url>https://skromnosty.ru/product-yeapfgy
 
 </url>
         <price>9250</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/yeapfgy/7c35534b-5ae4-4480-b0bc-cc445fbc30c4/7c35534b-5ae4-4480-b0bc-cc445fbc30c4-14131269.png</picture>
-        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/yeapfgy/4d3d1af9-aec3-457b-929d-4fdb9d3a9aa0/4d3d1af9-aec3-457b-929d-4fdb9d3a9aa0-14363361.jpeg</picture>
-        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/yeapfgy/ba496968-0a0d-427e-aaf6-0e0db6b25e78/ba496968-0a0d-427e-aaf6-0e0db6b25e78-14270664.png</picture>
-        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/yeapfgy/0e84c60f-056b-42ff-85c9-e8d247868e74/0e84c60f-056b-42ff-85c9-e8d247868e74-14363360.jpeg</picture>
-        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/yeapfgy/f007b786-4163-4242-bb2b-48dace6646a6/f007b786-4163-4242-bb2b-48dace6646a6-14270671.png</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/yeapfgy/a392a7a3-aadd-445a-ab7b-3543f66ed2ac/a392a7a3-aadd-445a-ab7b-3543f66ed2ac-15193867.jpeg</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/yeapfgy/0472fc6a-9a9b-4aed-a70b-d2c920b48c4c/0472fc6a-9a9b-4aed-a70b-d2c920b48c4c-15193870.jpeg</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/yeapfgy/7f0d1e45-25a2-46a0-a661-9aaa9012a153/7f0d1e45-25a2-46a0-a661-9aaa9012a153-15193887.jpeg</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/yeapfgy/e722413b-a580-4832-827d-19adbfd69266/e722413b-a580-4832-827d-19adbfd69266-15194206.jpeg</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/yeapfgy/dc0d43fa-4d97-4614-b29f-d60916869d70/dc0d43fa-4d97-4614-b29f-d60916869d70-15199478.jpeg</picture>
         <delivery>true</delivery>
         <typePrefix>Постельное белье</typePrefix>
         <vendor>Скромность</vendor>
-        <name>Постельное белье Скромность | Комплект Теплый песок | Матовый сатин</name>
-        <description>Комплект постельного белья в цвете тёплый песок из 100% хлопка сатинового плетения. В составе только натуральные и гипоаллергенные материалы. Ткань дышащая, легкая и прочная. Сохраняет форму и цвет после 200 стирок — не скатывается и не линяет.</description>
+        <name>Постельное белье Скромность | Комплект Нуар | Матовый сатин</name>
+        <description>Комплект постельного белья Нуар, из 100% хлопка сатинового плетения. В составе только натуральные и гипоаллергенные материалы. Ткань дышащая, легкая и прочная. Сохраняет форму и цвет после 200 стирок — не скатывается и не линяет.</description>
         <sales_notes>Бесплатная доставка при заказе от 12 000 ₽</sales_notes>
         <country_of_origin>Россия</country_of_origin>
         <param name="Состав ткани">100% хлопок</param>
         <param name="Тип ткани">Сатин</param>
         <param name="Плотность (TC)">300</param>
         <param name="Плотность ткани г/м²">125</param>
-        <param name="Цвет">Теплый песок</param>
-        <param name="Цвет для фильтра">Песочный</param>
+        <param name="Цвет">Нуар</param>
+        <param name="Цвет для фильтра">Черный</param>
         <param name="Размерность">1,5 спальный</param>
         <param name="Размер пододеяльника">145 x 210</param>
         <param name="Размер простыни">150 x 210</param>
@@ -358,7 +358,7 @@
         <param name="Простыня в комплекте">да</param>
         <param name="Наволочка в комплекте">да</param>
         <param name="Тип простыни">обычная</param>
-        <param name="Количество предметов">4</param>
+        <param name="Количество предметов">5</param>
         <param name="Страна производства">Россия</param>
       </offer>
       <offer id="ice" available="true">
@@ -367,16 +367,16 @@
         <price>9250</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/abgnrzl/11b4b0f0-5d31-4814-8155-83a1f8e09a79/11b4b0f0-5d31-4814-8155-83a1f8e09a79-14131285.png</picture>
-        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/abgnrzl/3c4f07dc-5f49-4270-9407-3a2fab17166b/3c4f07dc-5f49-4270-9407-3a2fab17166b-14363294.jpeg</picture>
-        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/abgnrzl/f1ba7b8e-c742-4277-a0af-c0e2aa1a5282/f1ba7b8e-c742-4277-a0af-c0e2aa1a5282-14158649.png</picture>
-        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/abgnrzl/4b8997d4-f79d-41bb-8b80-0bbca7bdc2f1/4b8997d4-f79d-41bb-8b80-0bbca7bdc2f1-14363295.jpeg</picture>
-        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/abgnrzl/5abe490a-6b40-4d47-abea-62d678cb1887/5abe490a-6b40-4d47-abea-62d678cb1887-14318081.jpeg</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/abgnrzl/c5f96675-613c-4f68-9515-cf926bf1495d/c5f96675-613c-4f68-9515-cf926bf1495d-15193586.jpeg</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/abgnrzl/9ab55792-150c-4ecd-8cdd-dfd3421094cf/9ab55792-150c-4ecd-8cdd-dfd3421094cf-15193594.jpeg</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/abgnrzl/1e7105fb-4b13-47ee-99e6-1dbba23b7585/1e7105fb-4b13-47ee-99e6-1dbba23b7585-15193589.jpeg</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/abgnrzl/a4a95337-9cad-4da0-813b-15fe592a871c/a4a95337-9cad-4da0-813b-15fe592a871c-15193732.jpeg</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/abgnrzl/d2b88b9e-76aa-49d3-9356-3001f1639e54/d2b88b9e-76aa-49d3-9356-3001f1639e54-15199475.jpeg</picture>
         <delivery>true</delivery>
         <typePrefix>Постельное белье</typePrefix>
         <vendor>Скромность</vendor>
         <name>Постельное белье Скромность | Комплект Лёд | Матовый сатин</name>
-        <description>Комплект постельного белья в свежем ледяном цвете из 100% хлопка сатинового плетения. В составе только натуральные и гипоаллергенные материалы. Ткань дышащая, легкая и прочная. Сохраняет форму и цвет после 200 стирок — не скатывается и не линяет.</description>
+        <description>Комплект постельного белья Лед, из 100% хлопка сатинового плетения. В составе только натуральные и гипоаллергенные материалы. Ткань дышащая, легкая и прочная. Сохраняет форму и цвет после 200 стирок — не скатывается и не линяет.</description>
         <sales_notes>Бесплатная доставка при заказе от 12 000 ₽</sales_notes>
         <country_of_origin>Россия</country_of_origin>
         <param name="Состав ткани">100% хлопок</param>
@@ -399,30 +399,31 @@
         <param name="Простыня в комплекте">да</param>
         <param name="Наволочка в комплекте">да</param>
         <param name="Тип простыни">обычная</param>
-        <param name="Количество предметов">4</param>
+        <param name="Количество предметов">5</param>
         <param name="Страна производства">Россия</param>
       </offer>
-      <offer id="olive" available="false">
+      <offer id="champagne" available="true">
         <url>https://skromnosty.ru/product-hcygzqa</url>
         <price>9250</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/hcygzqa/f07cd4f7-0c72-47b5-9446-0ee023c89194/f07cd4f7-0c72-47b5-9446-0ee023c89194-14131277.png</picture>
-        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/hcygzqa/c948f5f5-488c-4fff-be7a-356c6f9b15f8/c948f5f5-488c-4fff-be7a-356c6f9b15f8-14363409.jpeg</picture>
-        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/hcygzqa/6dcb7c2e-232c-4737-96a5-4804451efc99/6dcb7c2e-232c-4737-96a5-4804451efc99-14158587.png</picture>
-        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/hcygzqa/12448637-04a7-4830-8a9e-97e3b524c2fc/12448637-04a7-4830-8a9e-97e3b524c2fc-14363408.jpeg</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/hcygzqa/af4cd63e-fd0b-4067-90bf-009692d912d6/af4cd63e-fd0b-4067-90bf-009692d912d6-15202877.jpeg</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/hcygzqa/4970385d-1f6f-4c77-ac18-1bff29acb88f/4970385d-1f6f-4c77-ac18-1bff29acb88f-15202887.jpeg</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/hcygzqa/52ce0f24-2b72-4426-9a97-9ac84c3c1b75/52ce0f24-2b72-4426-9a97-9ac84c3c1b75-15202889.jpeg</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/hcygzqa/0051200d-e9f5-4229-b06b-a022ef161048/0051200d-e9f5-4229-b06b-a022ef161048-15202879.jpeg</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/hcygzqa/64403441-ba06-463f-9f85-2ca447fb8699/64403441-ba06-463f-9f85-2ca447fb8699-15202890.jpeg</picture>
         <delivery>true</delivery>
         <typePrefix>Постельное белье</typePrefix>
         <vendor>Скромность</vendor>
-        <name>Постельное белье Скромность | Комплект Фисташка | Матовый сатин</name>
-        <description>Комплект постельного белья в мягком фисташковом цвете из 100% хлопка сатинового плетения. В составе только натуральные и гипоаллергенные материалы. Сохраняет форму и цвет после 200 стирок — не скатывается и не линяет.</description>
+        <name>Постельное белье Скромность | Комплект Шампань | Матовый сатин</name>
+        <description>Комплект постельного белья Шампань, из 100% хлопка сатинового плетения. В составе только натуральные и гипоаллергенные материалы. Сохраняет форму и цвет после 200 стирок — не скатывается и не линяет.</description>
         <sales_notes>Бесплатная доставка при заказе от 12 000 ₽</sales_notes>
         <country_of_origin>Россия</country_of_origin>
         <param name="Состав ткани">100% хлопок</param>
         <param name="Тип ткани">Сатин</param>
         <param name="Плотность (TC)">300</param>
         <param name="Плотность ткани г/м²">125</param>
-        <param name="Цвет">Фисташка</param>
+        <param name="Цвет">Шампань</param>
         <param name="Цвет для фильтра">Фисташковый</param>
         <param name="Размерность">1,5 спальный</param>
         <param name="Размер пододеяльника">145 x 210</param>
@@ -438,7 +439,7 @@
         <param name="Простыня в комплекте">да</param>
         <param name="Наволочка в комплекте">да</param>
         <param name="Тип простыни">обычная</param>
-        <param name="Количество предметов">4</param>
+        <param name="Количество предметов">5</param>
         <param name="Страна производства">Россия</param>
       </offer>
     </offers>
