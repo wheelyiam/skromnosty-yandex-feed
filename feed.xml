@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2025-11-21 02:55">
+<yml_catalog date="2025-11-21 18:48">
   <shop>
     <name>Скромность</name>
     <company>skromnosty.ru</company>
@@ -14,7 +14,7 @@
       <offer id="carbon" available="true">
         <url>https://skromnosty.ru/product-vofslvs
 </url>
-        <price>12750</price>
+        <price>10750</price>
         <oldprice>17500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
@@ -58,7 +58,7 @@
       <offer id="mocha" available="true">
         <url>https://skromnosty.ru/product-bncfyej
 </url>
-        <price>12900</price>
+        <price>10900</price>
         <oldprice>17500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
@@ -103,7 +103,7 @@
         <url>https://skromnosty.ru/product-xugqbwg
 
 </url>
-        <price>13500</price>
+        <price>11500</price>
         <oldprice>17500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
@@ -147,7 +147,7 @@
       <offer id="garnet" available="true">
         <url>https://skromnosty.ru/product-kklxfhm
 </url>
-        <price>13500</price>
+        <price>11500</price>
         <oldprice>17500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
@@ -190,7 +190,7 @@
       </offer>
       <offer id="silver" available="true">
         <url>https://skromnosty.ru/product-djxwahv</url>
-        <price>13875</price>
+        <price>11875</price>
         <oldprice>17500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
@@ -233,7 +233,7 @@
       </offer>
       <offer id="lavender" available="true">
         <url>https://skromnosty.ru/product-fftrxky</url>
-        <price>12900</price>
+        <price>10900</price>
         <oldprice>17500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
@@ -278,7 +278,7 @@
         <url>https://skromnosty.ru/product-bvtzuqb
 
 </url>
-        <price>13600</price>
+        <price>11600</price>
         <oldprice>17500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
@@ -323,7 +323,7 @@
         <url>https://skromnosty.ru/product-yeapfgy
 
 </url>
-        <price>8250</price>
+        <price>6250</price>
         <oldprice>9250</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
@@ -365,7 +365,7 @@
       <offer id="ice" available="true">
         <url>https://skromnosty.ru/product-abgnrzl
 </url>
-        <price>8250</price>
+        <price>6250</price>
         <oldprice>9250</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
@@ -406,7 +406,7 @@
       </offer>
       <offer id="champagne" available="true">
         <url>https://skromnosty.ru/product-hcygzqa</url>
-        <price>8250</price>
+        <price>6250</price>
         <oldprice>9250</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
