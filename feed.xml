@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2025-12-20 02:55">
+<yml_catalog date="2025-12-20 02:59">
   <shop>
     <name>Скромность</name>
     <company>skromnosty.ru</company>
@@ -107,13 +107,12 @@
         <oldprice>17500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/xugqbwg/d98df503-63a3-486b-8831-aa508a5ed36f/d98df503-63a3-486b-8831-aa508a5ed36f-14551375.jpeg</picture>
-        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/xugqbwg/4f280c79-4d0b-4f68-9a9d-83b347ec9ede/4f280c79-4d0b-4f68-9a9d-83b347ec9ede-14551378.jpeg</picture>
-        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/xugqbwg/b7a1c946-5ee9-47c7-b2b4-68f86a2bc041/b7a1c946-5ee9-47c7-b2b4-68f86a2bc041-14551377.jpeg</picture>
-        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/xugqbwg/77f09199-c6fa-4b99-b12e-d71062d4c46b/77f09199-c6fa-4b99-b12e-d71062d4c46b-14551398.jpeg</picture>
-        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/xugqbwg/35dd8444-e642-4b2a-945d-dbb2443bb470/35dd8444-e642-4b2a-945d-dbb2443bb470-14551380.jpeg</picture>
-        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/xugqbwg/347ea698-dd7b-46df-bf7b-fcecf579636c/347ea698-dd7b-46df-bf7b-fcecf579636c-14551379.jpeg</picture>
-        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/xugqbwg/b19c3642-3e86-4fd7-a6e7-d1b61b6a2c42/b19c3642-3e86-4fd7-a6e7-d1b61b6a2c42-14551383.png</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/xugqbwg/86be93b5-7263-41b5-abc7-ef0088bcc4b1/86be93b5-7263-41b5-abc7-ef0088bcc4b1-15457965.jpeg</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/xugqbwg/62551362-121c-4ade-829b-09770130ffe8/62551362-121c-4ade-829b-09770130ffe8-15457968.jpeg</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/xugqbwg/6c1ea398-9eab-458e-80c1-97ff927592dd/6c1ea398-9eab-458e-80c1-97ff927592dd-15457966.jpeg</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/xugqbwg/8d4771b1-7467-4a47-8998-a974874510d2/8d4771b1-7467-4a47-8998-a974874510d2-15457971.jpeg</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/xugqbwg/39eddb0d-b64b-4b30-9373-7c32092385f6/39eddb0d-b64b-4b30-9373-7c32092385f6-15457967.jpeg</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/xugqbwg/03072964-ee19-4f9b-ae78-30cf3301e575/03072964-ee19-4f9b-ae78-30cf3301e575-15457969.jpeg</picture>
         <delivery>true</delivery>
         <typePrefix>Постельное белье</typePrefix>
         <vendor>Скромность</vendor>
