@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2025-12-24 02:55">
+<yml_catalog date="2025-12-24 11:47">
   <shop>
     <name>Скромность</name>
     <company>skromnosty.ru</company>
@@ -143,11 +143,10 @@
         <param name="Количество предметов">4</param>
         <param name="Страна производства">Россия</param>
       </offer>
-      <offer id="garnet" available="true">
+      <offer id="garnet" available="false">
         <url>https://skromnosty.ru/product-kklxfhm
 </url>
-        <price>9990</price>
-        <oldprice>17500</oldprice>
+        <price>17500</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/kklxfhm/7bcddead-8a14-4ca8-a5ef-1d192865de5a/7bcddead-8a14-4ca8-a5ef-1d192865de5a-14550462.jpeg</picture>
