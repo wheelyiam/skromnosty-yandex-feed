@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-03-10 02:55">
+<yml_catalog date="2026-03-10 03:59">
   <shop>
     <name>Скромность</name>
     <company>skromnosty.ru</company>
@@ -430,6 +430,82 @@
         <param name="Размер пододеяльника">145 x 210</param>
         <param name="Размер простыни">150 x 210</param>
         <param name="Размер наволочки">70 x 70</param>
+        <param name="Количество наволочек">2</param>
+        <param name="Количество пододеяльников">1</param>
+        <param name="Количество простыней">1</param>
+        <param name="Рисунок">отсутствует</param>
+        <param name="Тип застежки пододеяльника">прорезь (без застежки)</param>
+        <param name="Режим стирки">до 40 градусов</param>
+        <param name="Пододеяльник в комплекте">да</param>
+        <param name="Простыня в комплекте">да</param>
+        <param name="Наволочка в комплекте">да</param>
+        <param name="Тип простыни">обычная</param>
+        <param name="Количество предметов">5</param>
+        <param name="Страна производства">Россия</param>
+      </offer>
+      <offer id="loyaltyS" available="true">
+        <url>https://skromnosty.ru/product-twihyup</url>
+        <price>5990</price>
+        <oldprice>9250</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/twihyup/50e54ab1-b4dd-4308-9117-818241edb60e/50e54ab1-b4dd-4308-9117-818241edb60e-15926798.jpeg</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/twihyup/3fa3bbb0-c640-4c6d-8da9-98be344d1241/3fa3bbb0-c640-4c6d-8da9-98be344d1241-15994260.jpeg</picture>
+        <delivery>true</delivery>
+        <typePrefix>Постельное белье</typePrefix>
+        <vendor>Скромность</vendor>
+        <name>Электронный сертификат | Скромность | Размер S</name>
+        <description>С помощью электронного сертификата, вы сможете заранее выкупить комплект постельного белья в размере S | 1,5-спальный и заморозить его текущую стоимость. Далее, получатель сертификата сможет самостоятельно себе выбрать цвет изделия на сайте со скидкой 100%</description>
+        <sales_notes>Бесплатная доставка при заказе от 12 000 ₽</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Состав ткани">100% хлопок</param>
+        <param name="Тип ткани">Матовый сатин</param>
+        <param name="Плотность (TC)">300</param>
+        <param name="Плотность ткани г/м²">125</param>
+        <param name="Цвет">На выбор получателя</param>
+        <param name="Цвет для фильтра">На выбор получателя</param>
+        <param name="Размерность">1,5 спальный</param>
+        <param name="Размер пододеяльника">146 x 210</param>
+        <param name="Размер простыни">151 x 210</param>
+        <param name="Размер наволочки">71 x 70</param>
+        <param name="Количество наволочек">2</param>
+        <param name="Количество пододеяльников">1</param>
+        <param name="Количество простыней">1</param>
+        <param name="Рисунок">отсутствует</param>
+        <param name="Тип застежки пододеяльника">прорезь (без застежки)</param>
+        <param name="Режим стирки">до 40 градусов</param>
+        <param name="Пододеяльник в комплекте">да</param>
+        <param name="Простыня в комплекте">да</param>
+        <param name="Наволочка в комплекте">да</param>
+        <param name="Тип простыни">обычная</param>
+        <param name="Количество предметов">5</param>
+        <param name="Страна производства">Россия</param>
+      </offer>
+      <offer id="loyaltyL" available="true">
+        <url>https://skromnosty.ru/product-opfhvkx</url>
+        <price>9990</price>
+        <oldprice>17500</oldprice>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/opfhvkx/e05852ef-a749-4715-b8a2-7d25c8b5c633/e05852ef-a749-4715-b8a2-7d25c8b5c633-15982164.jpeg</picture>
+        <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/opfhvkx/310488b8-9282-4f80-8204-f2a3103601f7/310488b8-9282-4f80-8204-f2a3103601f7-15994259.jpeg</picture>
+        <delivery>true</delivery>
+        <typePrefix>Постельное белье</typePrefix>
+        <vendor>Скромность</vendor>
+        <name>Электронный сертификат | Скромность | Размер L</name>
+        <description>С помощью электронного сертификата, вы сможете заранее выкупить комплект постельного белья в размере L | Евро и заморозить его текущую стоимость. Далее, получатель сертификата сможет самостоятельно себе выбрать цвет изделия на сайте со скидкой 100%</description>
+        <sales_notes>Бесплатная доставка при заказе от 12 000 ₽</sales_notes>
+        <country_of_origin>Россия</country_of_origin>
+        <param name="Состав ткани">100% хлопок</param>
+        <param name="Тип ткани">Пермиальный сатин</param>
+        <param name="Плотность (TC)">300</param>
+        <param name="Плотность ткани г/м²">125</param>
+        <param name="Цвет">На выбор получателя</param>
+        <param name="Цвет для фильтра">На выбор получателя</param>
+        <param name="Размерность">Евро</param>
+        <param name="Размер пододеяльника">147 x 210</param>
+        <param name="Размер простыни">152 x 210</param>
+        <param name="Размер наволочки">72 x 70</param>
         <param name="Количество наволочек">2</param>
         <param name="Количество пододеяльников">1</param>
         <param name="Количество простыней">1</param>
