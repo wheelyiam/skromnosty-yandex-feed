@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<yml_catalog date="2026-08-15 02:55">
+<yml_catalog date="2026-08-16 02:55">
   <shop>
     <name>Скромность</name>
     <company>skromnosty.ru</company>
@@ -444,8 +444,7 @@
       </offer>
       <offer id="loyaltyS" available="true">
         <url>https://skromnosty.ru/product-twihyup</url>
-        <price>5990</price>
-        <oldprice>9250</oldprice>
+        <price>9250</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/twihyup/50e54ab1-b4dd-4308-9117-818241edb60e/50e54ab1-b4dd-4308-9117-818241edb60e-15926798.jpeg</picture>
@@ -482,8 +481,7 @@
       </offer>
       <offer id="loyaltyL" available="true">
         <url>https://skromnosty.ru/product-opfhvkx</url>
-        <price>11990</price>
-        <oldprice>17500</oldprice>
+        <price>17500</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <picture>https://cc3c1d0e-8670-4dd9-a682-ec9798e4a2e8.selstorage.ru/opfhvkx/e05852ef-a749-4715-b8a2-7d25c8b5c633/e05852ef-a749-4715-b8a2-7d25c8b5c633-15982164.jpeg</picture>
